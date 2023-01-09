@@ -1,0 +1,27 @@
+D:\Sample API Project\SampleProject\SampleProject.Model\bin\Debug\netcoreapp2.2\SampleProject.Model.deps.json
+D:\Sample API Project\SampleProject\SampleProject.Model\bin\Debug\netcoreapp2.2\SampleProject.Model.dll
+D:\Sample API Project\SampleProject\SampleProject.Model\bin\Debug\netcoreapp2.2\SampleProject.Model.pdb
+D:\Sample API Project\SampleProject\SampleProject.Model\obj\Debug\netcoreapp2.2\SampleProject.Model.csproj.CoreCompileInputs.cache
+D:\Sample API Project\SampleProject\SampleProject.Model\obj\Debug\netcoreapp2.2\SampleProject.Model.AssemblyInfoInputs.cache
+D:\Sample API Project\SampleProject\SampleProject.Model\obj\Debug\netcoreapp2.2\SampleProject.Model.AssemblyInfo.cs
+D:\Sample API Project\SampleProject\SampleProject.Model\obj\Debug\netcoreapp2.2\SampleProject.Model.dll
+D:\Sample API Project\SampleProject\SampleProject.Model\obj\Debug\netcoreapp2.2\SampleProject.Model.pdb
+D:\Sample API Project\SampleProject\SampleProject.Model\obj\Debug\netcoreapp2.2\SampleProject.Model.csprojAssemblyReference.cache
+E:\SampleProject\SampleProject.Model\bin\Debug\netcoreapp2.2\SampleProject.Model.deps.json
+E:\SampleProject\SampleProject.Model\bin\Debug\netcoreapp2.2\SampleProject.Model.dll
+E:\SampleProject\SampleProject.Model\bin\Debug\netcoreapp2.2\SampleProject.Model.pdb
+E:\SampleProject\SampleProject.Model\obj\Debug\netcoreapp2.2\SampleProject.Model.csprojAssemblyReference.cache
+E:\SampleProject\SampleProject.Model\obj\Debug\netcoreapp2.2\SampleProject.Model.csproj.CoreCompileInputs.cache
+E:\SampleProject\SampleProject.Model\obj\Debug\netcoreapp2.2\SampleProject.Model.AssemblyInfoInputs.cache
+E:\SampleProject\SampleProject.Model\obj\Debug\netcoreapp2.2\SampleProject.Model.AssemblyInfo.cs
+E:\SampleProject\SampleProject.Model\obj\Debug\netcoreapp2.2\SampleProject.Model.dll
+E:\SampleProject\SampleProject.Model\obj\Debug\netcoreapp2.2\SampleProject.Model.pdb
+C:\Users\sulegjan\Desktop\SampleProject\SampleProject.Model\bin\Debug\netcoreapp2.2\SampleProject.Model.deps.json
+C:\Users\sulegjan\Desktop\SampleProject\SampleProject.Model\bin\Debug\netcoreapp2.2\SampleProject.Model.dll
+C:\Users\sulegjan\Desktop\SampleProject\SampleProject.Model\bin\Debug\netcoreapp2.2\SampleProject.Model.pdb
+C:\Users\sulegjan\Desktop\SampleProject\SampleProject.Model\obj\Debug\netcoreapp2.2\SampleProject.Model.csprojAssemblyReference.cache
+C:\Users\sulegjan\Desktop\SampleProject\SampleProject.Model\obj\Debug\netcoreapp2.2\SampleProject.Model.csproj.CoreCompileInputs.cache
+C:\Users\sulegjan\Desktop\SampleProject\SampleProject.Model\obj\Debug\netcoreapp2.2\SampleProject.Model.AssemblyInfoInputs.cache
+C:\Users\sulegjan\Desktop\SampleProject\SampleProject.Model\obj\Debug\netcoreapp2.2\SampleProject.Model.AssemblyInfo.cs
+C:\Users\sulegjan\Desktop\SampleProject\SampleProject.Model\obj\Debug\netcoreapp2.2\SampleProject.Model.dll
+C:\Users\sulegjan\Desktop\SampleProject\SampleProject.Model\obj\Debug\netcoreapp2.2\SampleProject.Model.pdb

@@ -1,0 +1,57 @@
+D:\Sample API Project\SampleProject\SampleProject.Api\bin\Debug\netcoreapp2.2\SampleProject.Api.deps.json
+D:\Sample API Project\SampleProject\SampleProject.Api\bin\Debug\netcoreapp2.2\SampleProject.Api.runtimeconfig.json
+D:\Sample API Project\SampleProject\SampleProject.Api\bin\Debug\netcoreapp2.2\SampleProject.Api.runtimeconfig.dev.json
+D:\Sample API Project\SampleProject\SampleProject.Api\bin\Debug\netcoreapp2.2\SampleProject.Api.dll
+D:\Sample API Project\SampleProject\SampleProject.Api\bin\Debug\netcoreapp2.2\SampleProject.Api.pdb
+D:\Sample API Project\SampleProject\SampleProject.Api\bin\Debug\netcoreapp2.2\SampleProject.Model.dll
+D:\Sample API Project\SampleProject\SampleProject.Api\bin\Debug\netcoreapp2.2\SampleProject.Repository.dll
+D:\Sample API Project\SampleProject\SampleProject.Api\bin\Debug\netcoreapp2.2\SampleProject.Model.pdb
+D:\Sample API Project\SampleProject\SampleProject.Api\bin\Debug\netcoreapp2.2\SampleProject.Repository.pdb
+D:\Sample API Project\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.csprojAssemblyReference.cache
+D:\Sample API Project\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.csproj.CoreCompileInputs.cache
+D:\Sample API Project\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.RazorAssemblyInfo.cache
+D:\Sample API Project\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.RazorAssemblyInfo.cs
+D:\Sample API Project\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.AssemblyInfoInputs.cache
+D:\Sample API Project\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.AssemblyInfo.cs
+D:\Sample API Project\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.RazorTargetAssemblyInfo.cache
+D:\Sample API Project\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.csproj.CopyComplete
+D:\Sample API Project\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.dll
+D:\Sample API Project\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.pdb
+E:\SampleProject\SampleProject.Api\bin\Debug\netcoreapp2.2\SampleProject.Api.deps.json
+E:\SampleProject\SampleProject.Api\bin\Debug\netcoreapp2.2\SampleProject.Api.runtimeconfig.json
+E:\SampleProject\SampleProject.Api\bin\Debug\netcoreapp2.2\SampleProject.Api.runtimeconfig.dev.json
+E:\SampleProject\SampleProject.Api\bin\Debug\netcoreapp2.2\SampleProject.Api.dll
+E:\SampleProject\SampleProject.Api\bin\Debug\netcoreapp2.2\SampleProject.Api.pdb
+E:\SampleProject\SampleProject.Api\bin\Debug\netcoreapp2.2\SampleProject.Model.dll
+E:\SampleProject\SampleProject.Api\bin\Debug\netcoreapp2.2\SampleProject.Repository.dll
+E:\SampleProject\SampleProject.Api\bin\Debug\netcoreapp2.2\SampleProject.Model.pdb
+E:\SampleProject\SampleProject.Api\bin\Debug\netcoreapp2.2\SampleProject.Repository.pdb
+E:\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.csprojAssemblyReference.cache
+E:\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.csproj.CoreCompileInputs.cache
+E:\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.RazorAssemblyInfo.cache
+E:\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.RazorAssemblyInfo.cs
+E:\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.AssemblyInfoInputs.cache
+E:\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.AssemblyInfo.cs
+E:\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.RazorTargetAssemblyInfo.cache
+E:\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.csproj.CopyComplete
+E:\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.dll
+E:\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.pdb
+C:\Users\sulegjan\Desktop\SampleProject\SampleProject.Api\bin\Debug\netcoreapp2.2\SampleProject.Api.deps.json
+C:\Users\sulegjan\Desktop\SampleProject\SampleProject.Api\bin\Debug\netcoreapp2.2\SampleProject.Api.runtimeconfig.json
+C:\Users\sulegjan\Desktop\SampleProject\SampleProject.Api\bin\Debug\netcoreapp2.2\SampleProject.Api.runtimeconfig.dev.json
+C:\Users\sulegjan\Desktop\SampleProject\SampleProject.Api\bin\Debug\netcoreapp2.2\SampleProject.Api.dll
+C:\Users\sulegjan\Desktop\SampleProject\SampleProject.Api\bin\Debug\netcoreapp2.2\SampleProject.Api.pdb
+C:\Users\sulegjan\Desktop\SampleProject\SampleProject.Api\bin\Debug\netcoreapp2.2\SampleProject.Model.dll
+C:\Users\sulegjan\Desktop\SampleProject\SampleProject.Api\bin\Debug\netcoreapp2.2\SampleProject.Repository.dll
+C:\Users\sulegjan\Desktop\SampleProject\SampleProject.Api\bin\Debug\netcoreapp2.2\SampleProject.Model.pdb
+C:\Users\sulegjan\Desktop\SampleProject\SampleProject.Api\bin\Debug\netcoreapp2.2\SampleProject.Repository.pdb
+C:\Users\sulegjan\Desktop\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.csprojAssemblyReference.cache
+C:\Users\sulegjan\Desktop\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.csproj.CoreCompileInputs.cache
+C:\Users\sulegjan\Desktop\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.RazorAssemblyInfo.cache
+C:\Users\sulegjan\Desktop\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.RazorAssemblyInfo.cs
+C:\Users\sulegjan\Desktop\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.AssemblyInfoInputs.cache
+C:\Users\sulegjan\Desktop\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.AssemblyInfo.cs
+C:\Users\sulegjan\Desktop\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.RazorTargetAssemblyInfo.cache
+C:\Users\sulegjan\Desktop\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.csproj.CopyComplete
+C:\Users\sulegjan\Desktop\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.dll
+C:\Users\sulegjan\Desktop\SampleProject\SampleProject.Api\obj\Debug\netcoreapp2.2\SampleProject.Api.pdb
